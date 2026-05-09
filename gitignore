@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pdf
+*.json
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.png
+*.jpg
+*.jpeg
+.DS_Store

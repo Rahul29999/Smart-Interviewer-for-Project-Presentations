@@ -1,0 +1,12 @@
+easyocr
+faster-whisper
+transformers
+sentencepiece
+accelerate
+keybert
+sentence-transformers
+reportlab
+pandas
+numpy
+pillow
+opencv-python-headless

@@ -1,4 +1,4 @@
-# Smart Interviewer for Project Presentations
+# AI Driven Automated Interviewer for Project Presentations
 
 A free, local AI prototype that listens to a student project presentation, extracts screen content with OCR, transcribes speech, generates interview questions, asks adaptive follow-ups, scores the answers, and creates a PDF report.
 
